@@ -22,5 +22,9 @@ public class loops {
             System.out.println("Do you want to continue? 0 to exit");
             a=sc.nextInt();
         }while(a!=0);
+        for(int ab:arr){
+        // for each loop in java
+            System.out.println(ab);
+        }
     }
 }
