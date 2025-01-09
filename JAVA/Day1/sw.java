@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class whitch {
+public class sw{
     public static void main(String[] args) {
         int day ;
         System.out.println("do you want to know the day of the week?");
