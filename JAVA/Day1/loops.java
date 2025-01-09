@@ -26,5 +26,11 @@ public class loops {
         // for each loop in java
             System.out.println(ab);
         }
+        while (i<arr.length) {
+            //while loop
+            System.out.println(arr[i]);
+            i++;
+            
+        }
     }
 }
