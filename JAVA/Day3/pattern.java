@@ -1,4 +1,4 @@
-package JAVA.Day3;
+//package JAVA.Day3;
 
 public class pattern {
     public static void pattern1(int n){
@@ -128,6 +128,15 @@ public class pattern {
         }
     }
     public static void main(String[] args) {
+        pattern1(5);
+        patr2(5);
+        patr3(5);
+        patr4(5);
+        patr5(5);
+        patr6(5);
+        patr7(5);
         patr8PascalTi(5);
+        patr9(5);
+        patr10(5);
     }
 }

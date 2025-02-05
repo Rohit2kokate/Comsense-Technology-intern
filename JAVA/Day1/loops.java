@@ -18,7 +18,7 @@ public class loops {
             System.out.println("Enter a number: ");
             arr[i]=sc.nextInt();
             i++;
-            System.out.println("You entered: "+a);
+            //System.out.println("You entered: "+a);
             System.out.println("Do you want to continue? 0 to exit");
             a=sc.nextInt();
         }while(a!=0);
